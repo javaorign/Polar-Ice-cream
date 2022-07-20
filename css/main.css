@@ -70,18 +70,19 @@ nav ul a:hover{
 }
 .hero-left{
   width: 665px;
+  width: 750px;
   height: 364px;
   margin-top: 196px;
 
 }
 .ice-cream{
-  /* position: absolute; */
+  margin-top: 60px;
+  margin-left: -223px;
   width: 894.68px;
   height: 742.36px;
-  top: 126px;
-  right: 164px;
 }
 .motto{
+  width: 660px;
   font-family: 'Roboto';
   font-style: normal;
   font-weight: 900;
